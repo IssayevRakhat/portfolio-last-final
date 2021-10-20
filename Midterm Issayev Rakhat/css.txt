@@ -1,0 +1,570 @@
+body{position: relative;
+width: 1440px;
+height: 3384px;
+
+background: #FFFFFF;}
+.nav {
+	display: flex;
+	padding: 40px;
+}
+.nav #l1{
+position: absolute;
+width: 45px;
+height: 21px;
+left: 1001px;
+top: 70px;
+text-decoration: none;
+font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #111827;
+
+}
+.nav #l2{
+	position: absolute;
+width: 75px;
+height: 21px;
+left: 1142px;
+top: 70px;
+text-decoration: none;
+font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #9CA3AF;
+}
+.nav #l3{
+	position: absolute;
+width: 47px;
+height: 21px;
+left: 1313px;
+top: 70px;
+text-decoration: none;
+font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #9CA3AF;
+
+}
+.nav #s1{
+	position: absolute;
+width: 11px;
+height: 13px;
+left: 1035px;
+top: 54px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #111827;
+}
+.nav #s2{
+	position: absolute;
+width: 13px;
+height: 13px;
+left: 1204px;
+top: 54px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #9CA3AF;
+}
+.nav #s3{
+	position: absolute;
+width: 13px;
+height: 13px;
+left: 1346px;
+top: 54px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #9CA3AF;
+
+}
+.nav button {
+	position: relative;
+	left:40px;
+}
+header{
+	border:#FFFFFF;
+}
+main img{
+	position: absolute;
+	width: 162.54px;
+	height: 233.27px;
+	left: 1053px;
+	top: 327px;
+
+
+}
+main .rot{
+	position: absolute;
+	width: 175px;
+	height: 21px;
+	left: 92px;
+	top: 758px;
+	font-family: DM Sans;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 21px;
+	color: #111827;
+	transform: rotate(-90deg);
+}
+main span{
+	position: absolute;
+	width: 138px;
+	height: 29px;
+	left: 1134px;
+	top: 470px;
+	font-family: Dancing Script;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 29px;
+	color: #111827;
+}
+main #hello {
+	position: absolute;
+	width: 215px;
+	height: 24px;
+	left: 293px;
+	top: 327px;
+	font-family: Playfair Display;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 24px;
+	letter-spacing: 0.02em;
+	color: #9CA3AF;
+}
+main h1 {
+	position: absolute;
+	width: 540px;
+	height: 85px;
+	left: 293px;
+	top: 351px;
+	font-family: Playfair Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 64px;
+	line-height: 85px;
+	letter-spacing: 0.02em;
+	color: #111827;
+
+}
+main #curr {
+	position: absolute;
+	width: 320px;
+	height: 23px;
+	left: 293px;
+	top: 460px;
+	font-family: DM Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 23px;
+	color: #9CA3AF;
+
+}
+main #show{
+	position: absolute;
+	width: 132px;
+	height: 26px;
+	left: 293px;
+	top: 511px;
+	font-family: DM Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 26px;
+	text-decoration-line: underline;
+	color: black;
+}
+main #res{
+	position: absolute;
+	width: 132px;
+	height: 26px;
+	left: 450px;
+	top: 511px;
+	font-family: DM Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 26px;
+	text-decoration-line: underline;
+	color: black;
+}
+main #line1{
+position: absolute;
+width: 20px;
+height: 0px;
+left: 170px;
+top: 870px;
+z-index: 2;
+border: 3px solid #111827;
+transform: rotate(90deg);
+}
+main #line2{
+	
+position: absolute;
+width: 84px;
+height: 0px;
+left: 138px;
+top: 920px;
+z-index: 1;
+border: 3px solid #9CA3AF;
+transform: rotate(90deg);
+}
+.sec1 #rt{
+position: absolute;
+width: 1440px;
+height: 600px;
+left: 0px;
+top: 998px;
+
+background: #090909;
+}
+.sec1 span{
+position: absolute;
+width: 96px;
+height: 26px;
+left: 80px;
+top: 1148px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+color: #FFFFFF;}
+.sec1 #p1{
+	position: absolute;
+width: 342px;
+height: 90px;
+left: 507px;
+top: 1148px;
+
+font-family: DM Sans.sec1
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+
+color: #FFFFFF;
+
+}
+.sec1 #p2{
+position: absolute;
+width: 243px;
+height: 30px;
+left: 507px;
+top: 1286px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+color: #FFFFFF;
+
+}
+.sec1 #p3{
+	position: absolute;
+width: 273px;
+height: 60px;
+left: 507px;
+top: 1364px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+
+color: #FFFFFF;
+}
+.sec1 #at{
+	position: absolute;
+width: 311px;
+height: 311px;
+left: 1049px;
+top: 1148px;
+
+background: url(.jpg);
+}
+.sec1 #sh{
+	position: absolute;
+width: 311px;
+height: 311px;
+left: 1032px;
+top: 1163px;
+
+background: #2D2D2D;
+}
+.sec2 p{
+	position: absolute;
+width: 61px;
+height: 26px;
+left: 80px;
+top: 1748px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #111827;
+}
+.sec2 #rec1{
+position: absolute;
+width: 640px;
+height: 240px;
+left: 720px;
+top: 1748px;
+
+background: linear-gradient(0deg, #090909, #090909), #C4C4C4;
+
+}
+.sec2 #rec2{
+	
+position: absolute;
+width: 640px;
+height: 240px;
+left: 293px;
+top: 1998px;
+
+background: linear-gradient(0deg, #090909, #090909), #C4C4C4;
+}
+.sec2 #rec3{
+	position: absolute;
+width: 640px;
+height: 240px;
+left: 720px;
+top: 2248px;
+
+background: linear-gradient(0deg, #090909, #090909), #C4C4C4;
+}
+.sec2 #rec4{
+	position: absolute;
+width: 640px;
+height: 240px;
+left: 293px;
+top: 2513px;
+
+background: linear-gradient(0deg, #090909, #090909), #C4C4C4;
+}
+.sec2 #box1{
+position: absolute;
+width: 283px;
+height: 29.32px;
+left: 881px;
+top: 1838px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+
+color: #F9FAFB;
+}
+.sec2 #box12{
+	position: absolute;
+width: 273px;
+height: 23.68px;
+left: 881px;
+top: 1875.32px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+
+color: #6C6C6C;
+}
+.sec2 #box2{
+	position: absolute;
+width: 321px;
+height: 26px;
+left: 434px;
+top: 2090px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #F9FAFB;
+}
+.sec2 #box22{
+	position: absolute;
+width: 214px;
+height: 21px;
+left: 434px;
+top: 2126px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #6C6C6C;
+}
+.sec2 #box3{
+	position: absolute;
+width: 300px;
+height: 26px;
+left: 872px;
+top: 2340px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #F9FAFB;
+
+}
+.sec2 #box32{
+	position: absolute;
+width: 90px;
+height: 21px;
+left: 872px;
+top: 2376px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #6C6C6C;
+
+}
+.sec2 #i1{
+position: absolute;
+width: 427px;
+height: 240px;
+left: 293px;
+top: 1748px;
+
+}
+.sec2 #i2{
+	position: absolute;
+width: 427px;
+height: 240px;
+left: 933px;
+top: 1998px;
+}
+.sec2 #i3{
+	position: absolute;
+width: 427px;
+height: 240px;
+left: 293px;
+top: 2248px;
+}
+
+
+
+
+footer #c{
+position: absolute;
+width: 80px;
+height: 26px;
+left: 80px;
+top: 3050px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #111827;
+}
+footer #g{
+	position: absolute;
+width: 758px;
+height: 85px;
+left: 293px;
+top: 3000px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 65px;
+line-height: 85px;
+/* identical to box height */
+
+
+color: #111827;
+
+}
+footer #s{
+	position: absolute;
+width: 447px;
+height: 26px;
+left: 293px;
+top: 3100px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+}
